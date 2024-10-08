@@ -1,4 +1,8 @@
 body {
-color:red;
-background: black;
+color:black;
+background: red;
+border-bottom: solid 3px black;
+margin: 20px
 }
+
+
