@@ -1,7 +1,7 @@
 body{
-color:rgb(255, 0, 0);
+color:yellow;
 background: rgb(0, 0, 0);
-border-bottom: solid 0px rgb(255, 0, 0);
+border-bottom: solid 0px rgb(255, 251, 5);
 font-family: "Chakra Petch", sans-serif;
 margin: 20px
 }
@@ -19,12 +19,12 @@ img {
 }
 
 .categoria-videos img {
-    opacity: 1.0;
+    opacity:0.8;
     height: 200px;
 }
-.categoria-videos img:houver {
-    opacity: 0.5;
-    border: 1px solid rgb(5, 45, 105);
+.categoria-videos img:hover {
+    opacity: 1.0 ;
+    border: 3px solid rgb(251, 255, 0);
 }
 
 
